@@ -11,7 +11,6 @@ import Error from 'components/Appointments/Error';
 
 
 export default function Appointment(props) {
-    // const interview = props.interview;
     const EMPTY = "EMPTY";
     const SHOW = "SHOW";
     const CREATE = "CREATE";
