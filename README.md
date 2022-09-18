@@ -5,9 +5,9 @@ This application utilizes several testing development platforms, namely Storyboo
 
 ## Select Screenshots
 
-![screenshot](https://github.com/6hrslater/scheduler/blob/master/docs/MainPage.PNG)
-![screenshot](https://github.com/6hrslater/scheduler/blob/master/docs/CreateAppt.PNG)
-![screenshot](https://github.com/6hrslater/scheduler/blob/master/docs/DeleteAppt.PNG)
+![screenshot](https://github.com/6hrslater/scheduler-remake/blob/master/docs/MainPage.PNG)
+![screenshot](https://github.com/6hrslater/scheduler-remake/blob/master/docs/CreateAppt.PNG)
+![screenshot](https://github.com/6hrslater/scheduler-remake/blob/master/docs/DeleteAppt.PNG)
 
 ## Setup and Getting Started
 
