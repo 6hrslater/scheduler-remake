@@ -17,3 +17,24 @@ This application utilizes several testing development platforms, namely Storyboo
 4. Initiate Jest Test with `npm test`.
 5. Initiate Storybook Visual Testbed with `npm run storybook`.
 6. View Interview Scheduler on (http://localhost:8000/).
+
+## Dependencies
+
+- Axios
+- Classnames
+- Normalize.css
+- React
+- React-dom
+- React-scripts
+- Babel/core
+- Storybook/addon-actions
+- Storybook/addon-backgrounds
+- Storybook/addon-links
+- Storybook/addons
+- Storybook/react
+- Testing-library/jest-dom
+- Testing-library/react
+- Testing-library/react-hooks
+- Babel-loader
+- Prop-types
+- React-test-renderer
